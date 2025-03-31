@@ -1,0 +1,14 @@
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple
+tqdm
+tqdm-stubs
+scipy
+numpy<2
+pygments
+types-Pygments
+termcolor
+colorlog
+rich
+tensorboard
+torch-tb-profiler
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.2.0
